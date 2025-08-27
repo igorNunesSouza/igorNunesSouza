@@ -52,10 +52,13 @@
   <a target="_blank" href="https://igornunes.netlify.app/">
   </a>
   <a target="_blank" href="https://cloudytempo.netlify.app/">
+    <img style="width: 100%" src="https://cloudytempo.netlify.app/" alt="Medium post 2"  />
   </a>
   <a target="_blank" href="https://chronopulsetimer.netlify.app/">
+    <img style="width: 100%" src="https://chronopulsetimer.netlify.app/" alt="Medium post 3"  />
   </a>
   <a target="_blank" href="http://igreja.byethost4.com/?i=2">
+    <img style="width: 100%" src="http://igreja.byethost4.com/?i=2" alt="Medium post 4"  />
   </a>
 </div>
 
