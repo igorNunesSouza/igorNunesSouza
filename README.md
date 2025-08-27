@@ -48,6 +48,6 @@ I’m 21 years old and based in Brazil. I am a Full Stack Developer with experie
 <h3 align="left">📊 GitHub Contributions</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/SF8T8Qb.png" alt="GitHub contributions graph" />
+  <img src="https://prnt.sc/IH-nd0a6kprA" alt="GitHub contributions graph" />
 </p>
 
