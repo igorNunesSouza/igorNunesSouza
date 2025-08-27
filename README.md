@@ -5,7 +5,7 @@
 <h3 align="left">About Me</h3>
 
 <p align="left">
-  My name is Igor, I’m 21 years old and I live in Brazil. I’m a Full Stack Developer with experience in PHP, jQuery, and MySQL. I currently work providing technical support at a company, which gives me direct contact with users and production systems, enhancing my skills in problem-solving, communication, and software maintenance.
+I’m 21 years old and I live in Brazil. I’m a Full Stack Developer with experience in PHP, jQuery, and MySQL. I currently work providing technical support at a company, which gives me direct contact with users and production systems, enhancing my skills in problem-solving, communication, and software maintenance.
 </p>
 
 ---
@@ -36,17 +36,9 @@
 
 <h3 align="left">🚀 Some Projects I Have Created</h3>
 
-<div align="left" style="display: flex; flex-direction: column; gap: 10px; width: 100%;">
-  <a href="https://igornunes.netlify.app/" target="_blank">
-    <img style="width: 100%; border-radius: 8px;" src="https://via.placeholder.com/600x300?text=IgorNunes+Portfolio" alt="Igor Nunes Portfolio" />
-  </a>
-  <a href="https://cloudytempo.netlify.app/" target="_blank">
-    <img style="width: 100%; border-radius: 8px;" src="https://via.placeholder.com/600x300?text=CloudyTempo" alt="CloudyTempo Project" />
-  </a>
-  <a href="https://chronopulsetimer.netlify.app/" target="_blank">
-    <img style="width: 100%; border-radius: 8px;" src="https://via.placeholder.com/600x300?text=ChronoPulseTimer" alt="ChronoPulseTimer Project" />
-  </a>
-  <a href="http://igreja.byethost4.com/?i=2" target="_blank">
-    <img style="width: 100%; border-radius: 8px;" src="https://via.placeholder.com/600x300?text=Igreja+Project" alt="Igreja Project" />
-  </a>
-</div>
+<ul>
+  <li><a href="https://igornunes.netlify.app/" target="_blank">Igor Nunes Portfolio</a> – My personal portfolio website showcasing my projects and skills.</li>
+  <li><a href="https://cloudytempo.netlify.app/" target="_blank">CloudyTempo</a> – A weather app that shows current weather conditions and forecasts.</li>
+  <li><a href="https://chronopulsetimer.netlify.app/" target="_blank">ChronoPulse Timer</a> – A timer application designed to track activities with precision.</li>
+  <li><a href="http://igreja.byethost4.com/?i=2" target="_blank">Igreja Project</a> – A website developed for a church, demonstrating my experience in PHP and web development.</li>
+</ul>
