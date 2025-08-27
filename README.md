@@ -1,4 +1,4 @@
-<h1 align="left">Hey, what's up?</h1>
+<h1 align="left">Hey, I'm Igor Nunes</h1>
 
 ###
 
@@ -20,6 +20,10 @@
 
 ###
 
+<h1 align="left"></h1>
+
+###
+
 <h3 align="left">programming languages I work with</h3>
 
 ###
@@ -32,6 +36,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
+</div>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<h3 align="left">Here are some projects I have created</h3>
+
+###
+
+<div align="left" style="width: 100%">
+  <a target="_blank" href="https://igornunes.netlify.app/">
+  </a>
+  <a target="_blank" href="https://cloudytempo.netlify.app/">
+  </a>
+  <a target="_blank" href="https://chronopulsetimer.netlify.app/">
+  </a>
+  <a target="_blank" href="http://igreja.byethost4.com/?i=2">
+  </a>
 </div>
 
 ###
