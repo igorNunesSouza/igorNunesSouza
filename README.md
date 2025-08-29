@@ -45,9 +45,11 @@ I’m 21 years old and based in Brazil. I am a Full Stack Developer with experie
   <li>⛪ <a href="http://igreja.byethost4.com/?i=2" target="_blank">Church Project</a> – A website developed for a church, demonstrating my experience in PHP, Bootstrap, and web development. <strong>Technologies:</strong> PHP, HTML, CSS, Bootstrap.</li>
 </ul>
 
-<h3 align="left">📊 GitHub Contributions</h3>
+<!-- <h3 align="left">📊 GitHub Contributions</h3>
 
 <p align="center">
-  <img src="image.png" alt="GitHub contributions graph" />
-</p>
+  <!-- <img src="image.png" alt="GitHub contributions graph" /> -->
+</p> -->
+
+
 
